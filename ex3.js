@@ -4,4 +4,6 @@ let total = 0;
 
 total = 80 + ((TaxaGarcom / 100) * 80);
 
-console.log(total);
+console.log(`Valor Do Jantar:  R$${ValorJantar},00`);
+console.log(`Taxa Do Garcom:  R$${TaxaGarcom / 100 * 80}`);
+console.log(`Total a pagar: R$${total}`);
