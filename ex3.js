@@ -1,4 +1,4 @@
-let ValorJantar = 80;
+let ValorJantar = 88;
 let TaxaGarcom = 10;
 let total = 0;
 
